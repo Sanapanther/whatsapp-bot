@@ -1,6 +1,6 @@
 {
 	"name": "rawdy sana",
-	"description": " wa bot.",
+	"description": "rawdy sana",
 	"keywords": [
 		"whatsapp",
 		"bot"
@@ -9,8 +9,8 @@
 	"stack": "container",
     "env": { 
         "HANDLERS": {
-            "description": "Prefix of commands. Can be also false",
-            "required": true,
+            "description": "rawdysana",
+            "required": true
             "value":".,"
         },
         "ANTILINK_WARN": {
